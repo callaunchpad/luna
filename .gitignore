@@ -6,6 +6,10 @@
 !/src/*/Makefile
 !/src/*/README
 
+#Hank's virtual env stuff
+luna/
+tools/luna/
+
 # Compiled Object files and python ciles
 *.slo
 *.lo
@@ -124,4 +128,3 @@ GSYMS
 /tools/sequitur-g2p/
 
 /kaldiwin_vs*
-
